@@ -54,13 +54,21 @@ Instead of relying only on the model’s memory, the chatbot:
 ## 🏗️ Architecture
 
 User Query
+
    ↓
+   
 Retriever (Vector DB)
+
    ↓
+   
 Relevant Context
+
    ↓
+   
 LLM (RAG Prompting)
+
    ↓
+   
 Generated Answer
 
 
