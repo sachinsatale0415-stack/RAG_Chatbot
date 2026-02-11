@@ -4,8 +4,6 @@ An intelligent **Retrieval-Augmented Generation (RAG) based chatbot** that answe
 
 👨‍💻 **Developed by:** Sachin Satale  
 
-🎓 **Guided by:** Prof. Veena Sarda  
-
 
 ## 🌟 Overview
 
@@ -90,7 +88,9 @@ Generated Answer
 
 8. Context + Query → LLM
 
+9. Final grounded answer
 
+    
 ## 🛠️ Tech Stack
 
 ### Component  →  Technology
@@ -108,4 +108,31 @@ Frontend   →  Streamlit
 Embeddings →  Sentence Transformers
 
 
-10. Final grounded answer
+## 🧩 Use Cases
+
+• Enterprise knowledge assistant
+
+• Document Q&A systems
+
+• Research assistants
+
+• Legal/medical document analysis
+
+• Internal company chatbot
+
+• Resume / policy search bot
+
+
+## 🚀 Future Improvements
+
+ • Hybrid search (BM25 + Vector)
+
+ • Multi-language support
+
+ • Voice interface
+
+ • Fine-tuned local LLMs
+
+ • GPU acceleration
+
+ • Docker + Kubernetes deployment
