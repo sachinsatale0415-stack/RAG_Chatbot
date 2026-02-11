@@ -5,6 +5,7 @@ An intelligent **Retrieval-Augmented Generation (RAG) based chatbot** that answe
 👨‍💻 **Developed by:** Sachin Satale  
 
 
+
 ## 🌟 Overview
 
 This project implements a Multimodal RAG (Retrieval-Augmented Generation) pipeline that enhances LLM responses with external knowledge retrieval.
