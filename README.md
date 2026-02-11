@@ -90,4 +90,16 @@ Generated Answer
 
 8. Context + Query → LLM
 
-9. Final grounded answer
+
+## 🛠️ Tech Stack
+
+Component  →  Technology
+LLM	     →  Ollama / LLM APIs
+Framework  →  LangChain
+Vector DB  →  FAISS / Chroma
+Backend	  →  Python
+Frontend   →  Streamlit 
+Embeddings →  Sentence Transformers
+
+
+10. Final grounded answer
