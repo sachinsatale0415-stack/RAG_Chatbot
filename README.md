@@ -93,12 +93,18 @@ Generated Answer
 
 ## 🛠️ Tech Stack
 
-Component  →  Technology
+### Component  →  Technology
+
 LLM	     →  Ollama / LLM APIs
+
 Framework  →  LangChain
+
 Vector DB  →  FAISS / Chroma
+
 Backend	  →  Python
+
 Frontend   →  Streamlit 
+
 Embeddings →  Sentence Transformers
 
 
