@@ -27,9 +27,13 @@ Instead of relying only on the model’s memory, the chatbot:
 ## ✅ Key Benefits
 
 ✔ Reduces hallucinations
+
 ✔ Context-aware answers
+
 ✔ Supports multiple file formats
+
 ✔ Scalable for enterprise use
+
 ✔ Works on private/custom datasets
 
 
